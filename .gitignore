@@ -1,0 +1,20 @@
+# Compiled files
+*.o
+*.out
+client
+router
+server
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
